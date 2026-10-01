@@ -1,0 +1,4 @@
+interface:
+  display_name: "虾蛄公司 TikTok 毛利计算"
+  short_description: "按虾蛄公司口径计算三站点商品利润、利润率及保本ROI，支持表格制作"
+  default_prompt: "使用 $xiagu-tiktok-profit 按虾蛄公司的口径计算商品利润、利润率和最低ROI。"
